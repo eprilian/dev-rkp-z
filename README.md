@@ -1,6 +1,9 @@
-![Karmapack](public/assets/image/logo_default.png "Karmapack")
+![RKP](public/assets/image/logo_default.png "RKP")
 
-Aplikasi Sistem Informasi Anggota (SIA) organisasi Keluarga Mahasiswa dan Pelajar Cianjur Kidul (Karmapack)
+Rebrand aplikasi dari https://github.com/upi20/karmapack 
+Menjadi Management Kegiatan Pemuda Pemudi untuk organisasi tersebut
+
+## RKP ##
 
 ## Fitur
 
