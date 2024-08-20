@@ -306,20 +306,23 @@ Fitur pada Aplikasi ini meliputi:
 Pastikan PHP, MYSQL, APACHE2, COMPOSER, serta PHPMYADMIN telah ada maupun terinstall (bisa menggunakan XAMPP pada windows)
 masuk ke direktori coding pada VSCode
 aktifkan terminal lalu run command dibawah:
- # composer update
- # composer install 
+#composer update
+#composer install 
+
 
 setup database pada PHPMYADMIN
 setting nama database pada .env
 
-# php artisan key:generate
-# php artisan migrate --seed
-# php artisan serve
+#php artisan key:generate
+#php artisan migrate --seed
+#php artisan serve
 
-###### User Admin ke 2 ########
+# User Admin ke 2 #
 Admin Login (Manual Create)
 U: firmansyahepri333@gmail.com
 p: password
-######                 ########
+#                 #
 
-# Ubahan kata pada menu Login terdapat pada /resources/view/auth/login.blade.php# dev-rkp-z
+Ubahan kata pada menu Login terdapat pada /resources/view/auth/login.blade.php# dev-rkp-z
+
+untuk mengakses apps secara localhost, ubah .env > APP_ENV ke local dan sebaliknya.
